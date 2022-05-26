@@ -1,0 +1,7 @@
+<!--cs4.xml-->
+<Catalog xmlns:Book="http://www.aptechworldwide.com">
+    <Book:Booklist>
+        <Book:Title Book:Type = "Fiction">Evening in Paris</Book:Title>
+        <Book:Price>$123</Book:Price>
+    </Book:Booklist>
+</Catalog>

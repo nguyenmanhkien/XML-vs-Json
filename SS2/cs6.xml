@@ -1,0 +1,8 @@
+<!--cs6-->
+<Catalog xmlns="http://www.aptechworldwide.com">
+    <Booklist>
+        <Title Type = "Thriller">African Safari</Title>
+        <Price>$123</Price>
+        <ISBn>23345</ISBn>
+    </Booklist>
+</Catalog>

@@ -1,0 +1,13 @@
+<!--cs7-->
+<Catalog xmlns="http://www.aptechworldwide.com">
+    <Book>
+        <Title type="Fiction">Evening in Paris</Title>
+        <Price>$123</Price>
+    </Book>
+    <Book>
+        <Title type="Non-Fiction">Return to Earth</Title>
+        <Price xmlns="http://www.aptech.ac.in">$23</Price>
+        <Title type="Non-Fiction">Journey to the center of the Moon</Title>
+        <Price>$123</Price>
+    </Book>
+</Catalog>
